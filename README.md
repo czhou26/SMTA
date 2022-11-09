@@ -1,3 +1,3 @@
-Streaming Media Transcoding Application
+# Streaming Media Transcoding Application
 
-Key Features
+## Key Features
