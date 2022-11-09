@@ -2,3 +2,4 @@
 
 ## Key Features
 - AVC
+- HEVC
