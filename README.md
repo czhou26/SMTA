@@ -4,3 +4,4 @@
 - MPEG-2
 - AVC
 - HEVC
+- RTSP streaming
